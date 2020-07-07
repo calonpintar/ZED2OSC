@@ -1,0 +1,10 @@
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/ZED_Positional_Tracking.dir
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/oscpack.dir
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/OscSendTests.dir
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/OscUnitTests.dir
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/SimpleSend.dir
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/OscReceiveTest.dir
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/OscDump.dir
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/SimpleReceive.dir
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/ALL_BUILD.dir
+D:/PROGRAM/Projects/ZED-OSC/CMakeFiles/ZERO_CHECK.dir
